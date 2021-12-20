@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/asepsopiyan/asepsopiyan/blob/main/banner.png)](https://asepsopiyan.github.io)
 
 <h1 align="center">Hi 👋, I'm Asep Sopiyan</h1>
-<h3 align="center">Python | Web Scraping</h3>
+<h3 align="center">DATA MINING | WEB SCRAPING</h3>
 
 - 📫 How to reach me **asep.sopiyan1309@gmail.com**
 
